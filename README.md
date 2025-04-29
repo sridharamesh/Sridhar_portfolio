@@ -1,29 +1,44 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+Sridhar's+Portfolio;Data+Scientist+%7C+AI+%7C+ML+%7C+DL+Engineer;Crafting+Intelligent+Solutions+with+Code" alt="Typing SVG">
+</p>
 
 ---
 
-**Instructions to Add This README to Your Repository:**
+## 📄 Overview
 
-1. **Navigate to your repository:** [Sridhar_portfolio](https://github.com/sridharamesh/Sridhar_portfolio)
+This repository contains the source code for my personal portfolio website, showcasing my journey, projects, and expertise in **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Deep Learning**.
 
-2. **Add the README.md file:**
-   - Click on the **"Add file"** button.
-   - Select **"Create new file"**.
-   - Name the file `README.md`.
-   - Paste the above content into the editor.
-   - Scroll down and click **"Commit new file"**.
+🔗 **Live Website:** [sridharamesh.github.io/Sridhar_portfolio](https://sridharamesh.github.io/Sridhar_portfolio/)
 
-3. **Add Images to the Repository:**
-   - Create a folder named `Images` in the root directory of your repository.
-   - Upload the screenshots (`homepage.png`, `projects.png`, etc.) into this folder.
-   - Ensure the image paths in the README match the folder structure.
+---
 
-4. **Enable GitHub Pages (Optional):**
-   - Go to the **"Settings"** tab of your repository.
-   - Scroll down to the **"Pages"** section.
-   - Under **"Source"**, select the branch (e.g., `main`) and the folder (e.g., `/root`).
-   - Click **"Save"**.
-   - Your portfolio will be available at `https://sridharamesh.github.io/Sridhar_portfolio/`.
+## 🧰 Tech Stack
 
-Feel free to customize the content further to better reflect your personality and professional journey. If you need assistance with deploying your portfolio or have any other questions, don't hesitate to ask!
-::contentReference[oaicite:0]{index=0}
- 
+- **Frontend:** HTML, CSS, JavaScript
+- **Styling:** Tailwind CSS
+- **Animations:** GSAP, Framer Motion
+- **3D Graphics:** Three.js
+- **Build Tool:** Vite
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](https://github.com/sridharamesh/Sridhar_portfolio/blob/main/Images/homepage.png?raw=true)
+
+### 💼 Projects Section
+
+![Projects Section](https://github.com/sridharamesh/Sridhar_portfolio/blob/main/Images/projects.png?raw=true)
+
+---
+
+## 🚀 Getting Started
+
+To run this portfolio locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/sridharamesh/Sridhar_portfolio.git
